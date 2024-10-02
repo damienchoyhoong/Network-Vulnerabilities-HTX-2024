@@ -27,7 +27,11 @@ ________________________________________
 ________________________________________
 
 ## 1. Set Up the Virtual Environment
-- Tools Used: VirtualBox, Kali Linux, Ubuntu/Debian.
+- Tools Used: VirtualBox, Kali Linux, Ubuntu.
+  	- [Download VirtualBox 7.1.2 for Windows](https://download.virtualbox.org/virtualbox/7.1.2/VirtualBox-7.1.2-164945-Win.exe)
+	- [Download Ubuntu 24.04.1 Desktop (AMD64)](https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso)
+  	- [Download Kali Linux 2024.3 VirtualBox (AMD64)](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-virtualbox-amd64.7z)
+
 - Objective: Set up a Kali Linux VM (for exploitation) and an Ubuntu VM (as the target) on VirtualBox.
 ### Details:
 - The target VM was configured to run Apache and OpenSSL.
